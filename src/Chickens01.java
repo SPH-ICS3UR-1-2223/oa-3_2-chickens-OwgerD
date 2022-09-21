@@ -13,7 +13,6 @@ public class Chickens01 {
         System.out.println("On tuesday, the farmer got "+totalEggs11+" eggs.");
         
         
-        
         int c= b/2;
         int totalEggs22 = c * eggsPerChicken;
         System.out.println("On wednesday, the farmer got "+ totalEggs22 + " eggs.");
